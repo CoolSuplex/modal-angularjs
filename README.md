@@ -30,4 +30,8 @@ Commands to Run :
 
 6. Feel free to implement your service layer for data
 
+![alt tag](https://raw.githubusercontent.com/CoolSuplex/modal-angularjs/master/src/main/resources/static/images/indexPage.PNG)
+
+![alt tag](https://raw.githubusercontent.com/CoolSuplex/modal-angularjs/master/src/main/resources/static/images/modalCapture.PNG)
+
 Rock n Roll
