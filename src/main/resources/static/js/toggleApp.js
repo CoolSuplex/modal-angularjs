@@ -1,0 +1,1 @@
+var featureToggleApp = angular.module('featureToggleApp', ['ui.bootstrap']);
